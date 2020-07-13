@@ -1,4 +1,5 @@
 import './styles.css';
-import './js/delay';
-import './js/toggleUser';
-import './js/makeTransaction';
+
+import './js/task-1';
+import './js/task-2';
+import './js/task-3';
